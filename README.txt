@@ -1,4 +1,10 @@
-Bolocan Crina-Maria
+== Interpolare aplicata pe imagini ==
+In practica, interpolarea aplicata pe imagini este folosita pentru:
+* Transformari geometrice
+* Texture filtering
+* Image inpainting
+
+Metode de interpolare:
 
 Proximal_2x2:
 	La inceput, am initializat, definit coordonatele pornind
